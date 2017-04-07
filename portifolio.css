@@ -1,5 +1,30 @@
-
+a{
+    color: #ffffff;
+  }
+  td, tr {
+    color:#ffffff;
+  }
   body { 
   background-image: url("http://img02.deviantart.net/de2a/i/2016/072/1/4/rose_quartz_from_steven_universe___minimalist_by_matsumayu-d9t2jal.png");
+  background-repeat: no-repeat;
+  padding: 100px;
   }
-  
+  h1.cab {
+   color: #ffffff;
+  background: #F08080;
+  padding: 40px;
+  font-size: 300%;
+  }
+  img { 
+   float: left;
+  }
+  p.rod {
+   color: #ffffff;
+  background: #F08080;
+  padding: 40px;
+  font-size: 150%;
+  text-align: center;
+  }
+  p.tabela {
+    color: #ffffff;
+  }
