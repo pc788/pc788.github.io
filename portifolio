@@ -1,0 +1,61 @@
+<html>
+<head>
+<style>
+  body { 
+  background-image: url("http://img02.deviantart.net/de2a/i/2016/072/1/4/rose_quartz_from_steven_universe___minimalist_by_matsumayu-d9t2jal.png")
+  background-repeat: no-repeat;
+  }
+  h1.cab {
+   color: #ffffff;
+  background: #F08080;
+  padding: 40px;
+  font-size: 300%;
+  }
+  img { 
+   float: left;
+  }
+  p.rod {
+   color: #ffffff;
+  background: #F08080;
+  padding: 40px;
+  font-size: 150%;
+  text-align: center;
+  }
+  p.tabela {
+    color: #ffffff;
+ </style>
+ <title>Pedro Caio</title>
+ </head>
+<body>
+  <center><header><h1 class="cab">Meu Site</h1></header></center>
+<header><center><p class="tabela"> ((Sobre Mim))  ((Habilidades))  ((Blog))  ((Contato))  ((Portfólio))  </p></center></header>
+<img src="https://scontent.fbsb9-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/13177385_500816216777039_6923630773874703356_n.jpg?oh=4ae334b854f095748d74e0778c3ea487&oe=5938A7D9" width='150' height='150'/>
+ <left><table border= "1">
+      <tr>
+      <td>
+       <b>Nome: Pedro Caio Miranda de Araujo</b>
+      </td>
+      </tr>
+      <tr>
+      <td>
+      <b>Cidade:</b> Vitória - ES
+      </td>
+      </tr>
+      <tr>
+      <td>
+      <b>Natural de:</b> Vitória 
+      </td>
+      </tr>
+      <tr>
+      <td>
+      <b>Idade:</b> 15 anos
+      </td>
+      </tr>
+ </table></left>
+ 
+ <nav><a href="https://www.facebook.com/profile.php?id=100005459955614">facebook</a></nav>
+  <nav><a href="https://twitter.com/pedro788mike">Twitter</a></nav>
+  
+<footer><p class="rod">Copyright © PedroCaio company </p></footer>
+</body>
+</html>
